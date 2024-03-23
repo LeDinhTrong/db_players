@@ -24,16 +24,16 @@
     "id": "3a0c9e6f-1704-4b84-b9fe-cc988a69012c",
     "type_id": "1",
     "name": "Nashka",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Nashka/Nashka_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nashka/nashka_hardcore.plr"
     },
     "author_name": "Murafld",
     "description": "A character with many accessories, summons and very excellent armor, there is a “driving drill” Legendary Zenith “Magic mirror* generally normal Persian, and also with bare summons, Persian is not for beginners, try it on hardmode)",
@@ -255,16 +255,16 @@
     "id": "4378b882-ce8f-48ec-9a09-74e90fb630b3",
     "type_id": "1",
     "name": "Wendy",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wendy/Wendy_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wendy/wendy_hardcore.plr"
     },
     "author_name": "Parsifal",
     "description": "As I wrote, there will be problems! I didn't know how to do perfect white eyes",
@@ -443,15 +443,15 @@
     "id": "989063cd-f003-4bb7-b3f8-7389f65e76ef",
     "type_id": "1",
     "name": "Alice",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/alice.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/alice.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/Alice-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/Alice-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/Alice-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Alice/Alice-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/alice/alice_hardcore.plr"
     },
     "author_name": "Destroyer 106",
     "description": "Alice is an experimental character with a fairly large damage absorption as much as 200% of any damage converted into a unit of damage, has good equipment and regeneration in stock.",
@@ -463,15 +463,15 @@
     "id": "f75814b4-55b2-4c9c-b034-203ef4be0f94",
     "type_id": "1",
     "name": "DIO",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/dio.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/dio.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/DIO-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/DIO-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/DIO-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/DIO/DIO-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/dio/dio_hardcore.plr"
     },
     "author_name": "Serg050",
     "description": "Character DIO from JoJo's bizarre adventure. The character is NOT for survival, but for show. There are righteous vampire knives, a superb bloodthorn, a full set of stardust armor, amphibious boots, a rampant gauntlet of power, and a celestial emblem.",
@@ -623,15 +623,15 @@
     "id": "1103c304-980b-496f-b086-de2cb55cd9a9",
     "type_id": "1",
     "name": "Ball",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ball/Ball-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ball/ball_hardcore.plr"
     },
     "author_name": "Ball",
     "description": "This character is very cool. This is a class of shooters-wars. Killed for him: Gemini, Prime. Normal start at the beginning of the game. If you want to upgrade it",
@@ -703,15 +703,15 @@
     "id": "e3cd0a0b-a124-4348-a825-3425c1582034",
     "type_id": "1",
     "name": "Prosto Persian 2",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Prosto-persian2/Prosto-persian2-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prosto_persian_2/prosto_persian_2_hardcore.plr"
     },
     "author_name": "Qwzeek1",
     "description": "Do you know that in terraria you can not only run around looking for ores and fight? No? So this character is made just to relax, he has half the types of food from terraria, there are 10 mugs of tea and that's it, he has nothing more, just a character with food, this is an excellent personification of the fact that in terraria you can and should take a break from battles.\nIf you like the characters that I create and you want me to continue doing this, write in the comments what other characters to create and what should be in them.",
@@ -783,15 +783,15 @@
     "id": "db2943c8-1eec-4681-9248-0411e347ed94",
     "type_id": "1",
     "name": "Opener",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/Opener.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/Opener.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/personaj-Opener-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/personaj-Opener-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/personaj-Opener-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Opener/personaj-Opener-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/opener/opener_hardcore.plr"
     },
     "author_name": "Qwzeek1",
     "description": "This is the most uninteresting character that you could meet, his whole essence of existence is to open treasure bags of which he has quite a lot by the way. On the screen below you can see that this character has all the treasure bags, but everything else is empty",
@@ -1115,17 +1115,17 @@
     "id": "dc4c2a8b-6e5c-425f-bd00-11e908a33984",
     "type_id": "1",
     "name": "Warrior, Mage, Shooter",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_02.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_03.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_02.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Mage_Shooter/Warrior_Mage_Shooter_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_mage_shooter/warrior_mage_shooter_hardcore.plr"
     },
     "author_name": "YouRa",
     "description": "A character with three classes warrior, mage, shooter. There is a zenith on a warrior, on a magician there is a glove on the sniper's arrow. Painted character in rainbow Colour. The warrior has the star of mon lord, the magician has developer wings, the shooter has developer wings.",
