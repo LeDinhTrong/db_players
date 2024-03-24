@@ -3,16 +3,16 @@
     "id": "3d07cc83-67f2-49c5-82ea-a624837b7f84",
     "type_id": "1",
     "name": "Tero",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tero/Tero_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tero/tero_hardcore.plr"
     },
     "author_name": "denis",
     "description": "Has a lot of items\nDifficulty: medium\nMana:200\nLives:400\n2 pet\nThere is a flying drill\nThere is an ax, a pickaxe, a sword, a hook\nSuitable for survival",
@@ -45,16 +45,16 @@
     "id": "c1dbf243-a8a2-4919-bbc6-196d1408b966",
     "type_id": "1",
     "name": "S1ndy",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/S1ndy/S1ndy_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/s1ndy/s1ndy_hardcore.plr"
     },
     "author_name": "Wingle",
     "description": "This is my first character from the world on it I survived in the world 100% bestiary 1.4.4 I",
@@ -66,16 +66,16 @@
     "id": "97f35425-7447-4265-864c-ebfa35df0a28",
     "type_id": "1",
     "name": "My Persian",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/My_Persian/My_Persian_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/my_persian/my_persian_hardcore.plr"
     },
     "author_name": "V1e9w33",
     "description": "This is my character he has the legendary zenith 999 mithril ingots and more",
@@ -87,16 +87,16 @@
     "id": "9bc63b73-9d45-4380-a51d-c7fc0857fc09",
     "type_id": "1",
     "name": "Gordon freeman & chell",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Gordon_freeman_and_chell/Gordon_freeman_and_chell_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/gordon_freeman_and_chell/gordon_freeman_and_chell_hardcore.plr"
     },
     "author_name": "Freeman",
     "description": "Freeman, Gordon Freeman is the protagonist of the one-name game Half life (1-2) and 2 episodes of the second part. Nuclear physicist. At the age of 27, he got a job working in the black mesa complex, where there was a cascade resonance due to the crystal that G-man brought.",
@@ -108,16 +108,16 @@
     "id": "bcc087fd-68bd-4178-8506-4e5742a395e8",
     "type_id": "1",
     "name": "Builder Warrior",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Builder_Warrior/Builder_Warrior_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/builder_warrior/builder_warrior_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "This character is a Builder, I called him a warrior because he has several things for the war :). Now let's go through the character “briefly” 5 times on this character there are many things, all of them can be seen in the photo.",
@@ -129,16 +129,16 @@
     "id": "26fe1d68-8e97-40b7-800d-588ed9197e77",
     "type_id": "1",
     "name": "Warrior Brity ni",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Brity_ni/Warrior_Brity_ni_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_brity_ni/warrior_brity_ni_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "This character is a warrior, he has a lot of stuff in his inventory, even for yoyo. In principle, in the photo you can see what it is like. In principle, this is all that can be said.",
@@ -150,16 +150,16 @@
     "id": "c27b44b1-5feb-47e4-bf1c-6097363d16c5",
     "type_id": "1",
     "name": "Fionicle (shooter)",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_shooter/Fionicle_shooter_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicle_shooter/fionicle_shooter_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "The character's name is Fionicle, that is, the sister of Fionicle. This character has a lot of things on it, the best Armor, perhaps the best accessories, and things. It has 3 vehicles and a bunch of stuff. You can see everything in the photo",
@@ -171,16 +171,16 @@
     "id": "0e16d75b-20d6-434f-a55d-d5ae2c83944d",
     "type_id": "1",
     "name": "Fionicles Mage",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fionicle_Mage/Fionicle_Mage_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fionicles_mage/fionicles_mage_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "His name is Fionicle is a magician. It has a lot of resources and items for the summoner and also 2000 mana regan potions",
@@ -192,16 +192,16 @@
     "id": "f87f1ba7-56e8-46ac-b6df-f8160aad5067",
     "type_id": "1",
     "name": "Denis",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Denis/Denis_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/denis/denis_hardcore.plr"
     },
     "author_name": "Denis",
     "description": "Very good didn’t let me down with it I’m more confident and I advise you to download and play for health suitable for beginners and also for amateurs",
@@ -213,16 +213,16 @@
     "id": "71accecd-4f1e-4056-bf51-e266f67cd5c9",
     "type_id": "1",
     "name": "Persian made for building",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Persian_made_for_building/Persian_made_for_building_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/persian_made_for_building/persian_made_for_building_hardcore.plr"
     },
     "author_name": "Kostya",
     "description": "A character from terraria for which I create a world that I have already released. This character has expensive things, but there is no money. Therefore, it is clear that I am a boh by profession and a sucker in life.",
@@ -234,16 +234,16 @@
     "id": "ce31b775-5e23-4b3b-a780-c645b6dc23f2",
     "type_id": "1",
     "name": "Multiple classes",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Multiple_classes/Multiple_classes_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/multiple_classes/multiple_classes_hardcore.plr"
     },
     "author_name": "Xdanyl3469",
     "description": "In this Persian there are 3 classes at once: warrior, shooter and summoner. (to switch to the armor menu, click the icon with a person and choose) there are axes for each class (wings, terra-workers and decorations only on the warrior :0 ) all items are reforged (some items and axes are not forged on <<legendary>> or <<+ 4>> :[ ) there are all weapons for classes: whip with the sword of the Empress, zenith. There is a bag of void, laser drill, stardust pickaxe.",
@@ -276,16 +276,16 @@
     "id": "89857965-8fe8-49da-8afe-317543b9e9b0",
     "type_id": "1",
     "name": "Wilson",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Wilson/Wilson_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/wilson/wilson_hardcore.plr"
     },
     "author_name": "Parsifal",
     "description": "Wilson, why is he?\nIts easy to make!\nI could do Wendy but I was too lazy ...\nIt can be made, as there are all the materials for creating a character.\nBut there will be problems with the eyes, straight white-white, I can’t do it.\nBut there is a great idea!",
@@ -297,16 +297,16 @@
     "id": "76d6a26b-ed08-4993-9ffc-74afff93c9c9",
     "type_id": "1",
     "name": "Ezio",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ezio/Ezio_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ezio/ezio_hardcore.plr"
     },
     "author_name": "Parsifal",
     "description": "Ezio.?\nI thought it was Altair!\nTried to make it as similar as possible\nAs you can see it worked!",
@@ -318,16 +318,16 @@
     "id": "ec27283f-a922-41df-8a89-6317c0f528ba",
     "type_id": "1",
     "name": "Obi-Wan Kenobi",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Obi_Wan_Kenobi/Obi_Wan_Kenobi_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/obi_wan_kenobi/obi_wan_kenobi_hardcore.plr"
     },
     "author_name": "Parsifal505",
     "description": "This character was not created for the passage, but if you are risky, then I advise you to pass on the master ...\n୧⁠(⁠＾⁠ ⁠〰⁠ ⁠＾⁠)⁠୨\nOr maybe on a trip!\n\nTried to pass on the master\ncould not...",
@@ -339,16 +339,16 @@
     "id": "d86366e8-496a-49f3-80ab-d40b526891d4",
     "type_id": "1",
     "name": "Shin v2",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Shin_v2/Shin_v2_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/shin_v2/shin_v2_hardcore.plr"
     },
     "author_name": "Parsifal505",
     "description": "The reworked character Shin, I still completed it and a bonus, HERE!\nYou see in the picture, its second slot. You can play from Journey to Master as you like (⁠≧⁠▽⁠≦⁠)\nShin, created for the passage of the game. This given character, you may like it, if, of course, you understand how to play it. You can play in all modes, from travel to master.",
@@ -360,16 +360,16 @@
     "id": "9ea532a4-efb6-4aec-8f4c-d98e72ee233b",
     "type_id": "1",
     "name": "Laugh ΔΙΆΒΟΛΟΣ",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Laugh/Laugh_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/laugh/laugh_hardcore.plr"
     },
     "author_name": "Pavel",
     "description": "A good person who depends on terraria, as the youtuber once said. This is my first time passing in an expert. I will also lay out the world so that you understand how I tried?",
@@ -381,16 +381,16 @@
     "id": "ca86156d-d769-4b49-b170-7e8920c71704",
     "type_id": "1",
     "name": "You",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you.jppngg",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/You/You_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/you/you_hardcore.plr"
     },
     "author_name": "Pavel",
     "description": "For this character, I went through the world called GG, you can also download it. I spent 40 hours. An expert world and character will be released soon if you like",
@@ -402,16 +402,16 @@
     "id": "3c8bb136-b21a-496b-93e9-41089de6c58e",
     "type_id": "1",
     "name": "Top 1 Persian",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian_01.jpg"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Top_1_Persian/Top_1_Persian_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/top_1_persian/top_1_persian_hardcore.plr"
     },
     "author_name": "Den4ik",
     "description": "I will tell you that this Persian was top until the update came out and this Persian died. And he became a legend before update 1.4.4.4 and everything should be fine",
@@ -423,15 +423,15 @@
     "id": "a1596587-05b3-4cc3-9be3-fac56507c81b",
     "type_id": "1",
     "name": "Ellie",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/Ellie.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/Ellie.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/EllieJourney.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/EllieClassic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/EllieMedium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ellie/EllieHardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ellie/ellie_hardcore.plr"
     },
     "author_name": "Parsifal",
     "description": "",
@@ -483,15 +483,15 @@
     "id": "3a8bf294-15c7-41db-9ec9-b714887b9839",
     "type_id": "1",
     "name": "Efloitly",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Efloitly/Efloitly-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/efloitly/efloitly_hardcore.plr"
     },
     "author_name": "ErAnGames",
     "description": "Efloitly. Has an assassin outfit and dark armor. There are a lot of interesting things in the inventory. There are three summonable creatures to choose from: a cat in a hat, a dog, and a cube with a heart in the middle. There are also many powerful weapons. There is a caramel sword and Terraformer. And many more.",
@@ -503,15 +503,15 @@
     "id": "9ba98644-3038-4f02-9d41-a3e1a5a443af",
     "type_id": "1",
     "name": "Banana",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Banana/Banana-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/banana/banana_hardcore.plr"
     },
     "author_name": "Jonny Joestar",
     "description": "A neighbor with a zenith and many potions and a very strong one for a very long time I shook and in general gacha torment. The top character is suitable for killing bosses\nMoon lord is given without problems",
@@ -523,15 +523,15 @@
     "id": "889f0f05-e01c-4d68-941b-c09af85e93c5",
     "type_id": "1",
     "name": "Strelok4",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Strelok4/Strelok4-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok4/strelok4_hardcore.plr"
     },
     "author_name": "unknown",
     "description": "The character is a semi-cyborg shooter type. With a normal set of pieces. The weapons are varied, the equipment is simple. There are cool tricks. Whirlwind armor is present.",
@@ -543,15 +543,15 @@
     "id": "7d3d8abf-4b30-4c2f-8a42-d32ef9adde72",
     "type_id": "1",
     "name": "Zelyevar",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zelyevar/Zelyevar-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zelyevar/zelyevar_hardcore.plr"
     },
     "author_name": "unknown",
     "description": "A character with good equipment, a lot of different goodies, including the Zenith sword. The main feature of the character is that he has a bunch of different potions in large quantities. My first Persian. Do not judge strictly.",
@@ -563,15 +563,15 @@
     "id": "deae9215-ed11-407a-9388-7e33a2c66d85",
     "type_id": "1",
     "name": "NN",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/NN/NN-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/nn/nn_hardcore.plr"
     },
     "author_name": "unknown",
     "description": "This character is named because I was too lazy to come up with a nickname, but with this Persian I have played more than 2k hours, it is very important for me on the Persian there is an assembly of a warrior archer and a summoner (the summoner is the strongest)",
@@ -583,15 +583,15 @@
     "id": "306d685c-d47e-43f1-a47e-e46fad63db2a",
     "type_id": "1",
     "name": "Tactician",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Tactician/Tactician-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/tactician/tactician_hardcore.plr"
     },
     "author_name": "Kostya",
     "description": "Tactician contains Item Stacks.\nThe piggy bank contains everything for the arena (only important ones).\nAll kits contain everything you need.\nOnly the latter has no armor.",
@@ -603,15 +603,15 @@
     "id": "d8988b35-8a87-459d-a012-e350caa1a9bb",
     "type_id": "1",
     "name": "Zhorik",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zhorik/Zhorik-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zhorik/zhorik_hardcore.plr"
     },
     "author_name": "Zhorik",
     "description": "This character is very fierce, he has everything. Necklace Lilith, Zenith, Mayamur everything (well, not everything is straight, but there are normal things). The character has normal accessories also has good weapon damage (Zenith 450 damage).\nPlus there are a lot of things in the inventory (a lot). Well, everyone play to your health.",
@@ -643,15 +643,15 @@
     "id": "c6edd6a1-5bee-4046-be12-80d8eecf024d",
     "type_id": "1",
     "name": "Chelick",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Chelick/Chelick-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/chelick/chelick_hardcore.plr"
     },
     "author_name": "ANGEL",
     "description": "Hello, I uploaded my character so as not to lose it, and at the same time give it to you. It has everything you need. Also in the bag of emptiness there are all the calls of the bosses. I tried to make it so with all the possibilities. Download, good luck.",
@@ -663,15 +663,15 @@
     "id": "d636e6db-a990-4581-9d5d-1afda257b1fb",
     "type_id": "1",
     "name": "Strelok(Qwzar)",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/StrelokQwzar/StrelokQwzar-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/strelok_qwzar/strelok_qwzar_hardcore.plr"
     },
     "author_name": "Qwzeek1",
     "description": "I created many characters for terraria and here is 1 more, this is a shooter without flaws, it seems like he has everything to be the best shooter, this is vortex armor, different weapon bows, combat accessories, potions, etc.\nPS There is a zenith in the bag of emptiness in case of emergency, and if you like the characters that I create, then write about it in the comments and write there what I did not add to the character.",
@@ -683,15 +683,15 @@
     "id": "ab2b7466-3c46-48df-b772-1ee0d231d472",
     "type_id": "1",
     "name": "Massive",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Massive/Massive-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/massive/massive_hardcore.plr"
     },
     "author_name": "Lay",
     "description": "The character that I played for only 16 hours has a shell phone but no zenith, the zenith replacement is the legendary meowmur with 342 melee damage, the character has a small amount of many imb potions, there is a truffle to kill the duke fishron and much more.",
@@ -723,15 +723,15 @@
     "id": "363cc37e-6caf-452f-bca1-456ff051c92b",
     "type_id": "1",
     "name": "Snayper100",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100%-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100%-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100%-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Snayper100/Snayper100%-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/snayper100/snayper100_hardcore.plr"
     },
     "author_name": "RIIIKK",
     "description": "I made a character who has 100% moon lord cannon. When fired, any bullet always inflicts Crit. You can take crystal bullets from inventory and try to kill the dungeon keeper. He also has a sniper rifle, which also has 100% crit.",
@@ -743,15 +743,15 @@
     "id": "f37bfaae-b4cc-44ac-95a7-ea60ba1736ac",
     "type_id": "1",
     "name": "Black People",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Black_People/Black_People-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/black_people/black_people_hardcore.plr"
     },
     "author_name": "ChimNor",
     "description": "Hello everyone what can I say about this player, this player is a warrior as you see below, here, and he is special in that he hits very hard, and you can see below, and he has many other swords in his inventory.",
@@ -763,15 +763,15 @@
     "id": "ae02ab0a-ae9b-4654-bf6d-cacdb7478f37",
     "type_id": "1",
     "name": "Sonic the hedgehog",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Sonic_the_hedgehog/Sonic_the_hedgehog-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/sonic_the_hedgehog/sonic_the_hedgehog_hardcore.plr"
     },
     "author_name": "Sonic fan",
     "description": "This character has a set of iron items, a piece of cobalt armor, a hook, and accessories, and a laser sword as a bonus. All you need to do is move this file to your characters folder.",
@@ -802,16 +802,16 @@
   {
     "id": "1109f69a-7c7f-4cf1-8227-3169312b255e",
     "type_id": "1",
-    "name": "Qwzar21Summoner",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21Summoner/Qwzar21Summoner.jpg",
+    "name": "Qwzar21 Summoner",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_summoner/qwzar21_summoner.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21Summoner/Qwzar21Summoner.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_summoner/qwzar21_summoner.png"
     ],
     "difficulty": {
       "0": "",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21Summoner/Qwzar21Summoner-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21Summoner/Qwzar21Summoner-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21Summoner/Qwzar21Summoner-Hardcore.plr"
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_summoner/qwzar21_summoner_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_summoner/qwzar21_summoner_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_summoner/qwzar21_summoner_hardcore.plr"
     },
     "author_name": "Qwzeek1",
     "description": "Summoner\nHealth: 500/500\nMana: 200/200\nPlayed: 1-something day\nPoints in golf: 14\nFishermen:8\nSummoner class character\nthere are almost all summoning weapons, there are 3 sets 1) stardust 2) creepy armor 3) spider armor\nGot Money, Mount: Shadowmage's Tome",
@@ -823,15 +823,15 @@
     "id": "088ada32-f007-4a75-a8b3-dd590535367a",
     "type_id": "1",
     "name": "Hermit",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Hermit.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Hermit.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Otshelnik-Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Otshelnik-Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Otshelnik-Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Hermit/Otshelnik-Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/hermit/hermit_hardcore.plr"
     },
     "author_name": "unknown",
     "description": "Hermit with a red eye, medium strength level is suitable for top survival. Take the character you won't regret it",
@@ -843,16 +843,16 @@
     "id": "2dc43a41-3667-4e97-9a9e-96d028bdcec7",
     "type_id": "1",
     "name": "Kill bosses",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Kill_bosses/Kill_bosses_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/kill_bosses/kill_bosses_hardcore.plr"
     },
     "author_name": "Akiim",
     "description": "A character suitable for killing bosses! There is a zenith, and armor with great protection. The character has a lot of potions. There is a phone, there is a fishing rod bait 666%.",
@@ -864,16 +864,16 @@
     "id": "8f119d73-e1af-4232-99fa-8b37aea9c62a",
     "type_id": "1",
     "name": "Krutak",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Krutak/Krutak_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/krutak/krutak_hardcore.plr"
     },
     "author_name": "Tim",
     "description": "He's a cheat, okay! ? But he can still die",
@@ -885,16 +885,16 @@
     "id": "414be8c8-fa7a-45e1-8ff1-1d6f269691d7",
     "type_id": "1",
     "name": "Ant",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Ant/Ant_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/ant/ant_hardcore.plr"
     },
     "author_name": "Muraveychik",
     "description": "With this character, I went through terraria and played 80 hours. There is Zenith, dawn, terraprism, a lot of wall blocks, traps, cool armor. Character in classic mode, only 1 set is. Lots of expert accessories, such as a floating star, lots of dyes, in short, a very cool character!",
@@ -905,17 +905,17 @@
   {
     "id": "8f6fa07b-6635-4145-ba8f-cecd88399b19",
     "type_id": "1",
-    "name": "Qwzar21TOP",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_01.png",
+    "name": "Qwzar21 TOP",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Qwzar21TOP/Qwzar21TOP_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/qwzar21_top/qwzar21_top_hardcore.plr"
     },
     "author_name": "Qwzeek1",
     "description": "This is just a warrior who can do nothing except battles and mining, this character can easily kill a moon lord, in short, just download and see for yourself, “just a war” has a bunch of potions with mana with a heal and other useful potions.",
@@ -927,16 +927,16 @@
     "id": "8051b3d2-cc83-4260-9cc8-601566b3ec65",
     "type_id": "1",
     "name": "Trunks",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Trunks/Trunks_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/trunks/trunks_hardcore.plr"
     },
     "author_name": "nijicat3",
     "description": "Another DB character, but melee as it should be. Came from Fused Zamasu fights. Barrels aren't that weak even though he was knocked down in 2 hits while fighting androids.",
@@ -948,16 +948,16 @@
     "id": "cef7d1e8-2484-4215-9229-8c306006aaba",
     "type_id": "1",
     "name": "HAUS",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/HAUS/HAUS_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/haus/haus_hardcore.plr"
     },
     "author_name": "Haus",
     "description": "A character with almost 3k hours. Adventure almost all things are collected. There is a set of a summoner, a miner, an arrow. I wish those who downloaded a pleasant game, this character is very valuable to me, so I want to share it with him. I went through it and broke quite a few worlds.",
@@ -969,15 +969,15 @@
     "id": "2563582a-5220-4256-bd97-7e833e51a276",
     "type_id": "1",
     "name": "Loner",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Loner/Loner_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/loner/loner_hardcore.plr"
     },
     "author_name": "Creator of the Persians",
     "description": "A loner from the game stalker (stalker) will continue to make other characters from this game, except for mutants, he has a lot of cartridges and boots (he can fly other normal more or less not found) such a Persian",
@@ -989,16 +989,16 @@
     "id": "a47bef86-8d09-4b84-9c26-e741608a463d",
     "type_id": "1",
     "name": "Fisherman",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Fisherman/Fisherman_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/fisherman/fisherman_hardcore.plr"
     },
     "author_name": "Danya.P",
     "description": "Character Grandfather Rybak. Just a fisherman, good for completing fisherman quests.\n\nPersian mode: classic\nThere are useful items for the fisherman.\nFishing rods: golden, infernal.",
@@ -1010,16 +1010,16 @@
     "id": "6f2e7d45-cd69-43b6-bac3-0ca37cf079ef",
     "type_id": "1",
     "name": "Son Goku",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Son_Goku/Son_Goku_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/son_goku/son_goku_hardcore.plr"
     },
     "author_name": "nijicat3",
     "description": "Dragon Ball mc with his KI attacks etc. Someday I will also make Broly, Vegeta and other characters. By the way, this is my first character, so don't judge this creature.",
@@ -1031,16 +1031,16 @@
     "id": "b3f6dffc-e43f-4694-afd4-18c89b031cba",
     "type_id": "1",
     "name": "A good Persian for the empress of light",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/A_good_Persian_for_the_empress_of_light/A_good_Persian_for_the_empress_of_light_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/a_good_Persian_for_the_empress_of_light/a_good_Persian_for_the_empress_of_light_hardcore.plr"
     },
     "author_name": "Some nn",
     "description": "A good Persian for killing the empress of light during the day, it still has her summoner and the summoner of the twins",
@@ -1052,16 +1052,16 @@
     "id": "b31225c4-9c7d-454c-8c6f-1fd11546ddba",
     "type_id": "1",
     "name": "Skibidi dop",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Skibidi_dop/Skibidi_dop_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/skibidi_dop/skibidi_dop_hardcore.plr"
     },
     "author_name": "Skibidi dop",
     "description": "He has a lot of things. He has a zenith, a wand of harmony, a lot of summoners, a terra blade, that same ax, a rainbow gun, etc.",
@@ -1073,16 +1073,16 @@
     "id": "f3410023-f51f-47e1-a529-22ffa4fe4f1c",
     "type_id": "1",
     "name": "PRAPOR2011",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/PRAPOR2011/PRAPOR2011_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/prapor2011/prapor2011_hardcore.plr"
     },
     "author_name": "RedX",
     "description": "He has an earth blade, a solar eruption, an alien blaster, a pygmy staff, etc.",
@@ -1094,16 +1094,16 @@
     "id": "e9d3da8a-403e-4550-aed5-6391f51deef0",
     "type_id": "1",
     "name": "Super Trader",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Super_Trader/Super_Trader_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/super_trader/super_trader_hardcore.plr"
     },
     "author_name": "Void_",
     "description": "The super merchant has a lot of rare and valuable goods in his bag that he can sell you at three prices. All the settlers are friends with him, since he can take goods at a discount from all of them. He has little damage, but it's for the good of the money! Since he knocks money out of enemies even before they die.\n\nClass: Warrior\nEquipment: Bug Armor",
@@ -1137,16 +1137,16 @@
     "id": "ce629e74-ee25-44d6-8649-d597545e5e35",
     "type_id": "1",
     "name": "Imbovy Persian for grater",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_01.png",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_01.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_02.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Imbovy_Persian_for_grater/Imbovy_Persian_for_grater_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/imbovy_persian_for_grater/imbovy_persian_for_grater_hardcore.plr"
     },
     "author_name": "Dafox",
     "description": "Persian imba, there is a zenith, yoyo, and many other cool weapons.",
@@ -1158,16 +1158,16 @@
     "id": "ebc130a1-13b5-488e-872e-722be70c8882",
     "type_id": "1",
     "name": "Warrior Molvin",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Warrior_Molvin/Warrior_Molvin_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/warrior_molvin/warrior_molvin_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "This character is a warrior, I called him Molvin because he looks like Molvin, it’s not strange Now let’s go through the character “briefly” 5 times on this character there are many things, all of them can be seen in the photo.",
@@ -1179,16 +1179,16 @@
     "id": "8b401a84-1ce6-43c4-a13a-453b0e474759",
     "type_id": "1",
     "name": "Zoologist Summoner",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Zoologist_Summoner/Zoologist_Summoner_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/zoologist_summoner/zoologist_summoner_hardcore.plr"
     },
     "author_name": "Brity ni",
     "description": "The character is a summoner, but this character has a lot of other things, like pigeons",
@@ -1200,16 +1200,16 @@
     "id": "572a8803-ab2c-423d-914e-698591535bf4",
     "type_id": "1",
     "name": "Remorn",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Remorn/Remorn_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/remorn/remorn_hardcore.plr"
     },
     "author_name": "Remake",
     "description": "Kill the wall of flesh with the help of a banana rang and run away while you hit.",
@@ -1221,16 +1221,16 @@
     "id": "ce97740c-b718-452f-8b84-7b312c8c4cf5",
     "type_id": "1",
     "name": "Moon Lord Warrior",
-    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_01.jpg",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior.png",
     "images_url": [
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_01.jpg",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_02.jpg"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior_01.png"
     ],
     "difficulty": {
-      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_Journey.plr",
-      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_Classic.plr",
-      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_Medium.plr",
-      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/Moon_Lord_Warrior/Moon_Lord_Warrior_Hardcore.plr"
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior_journey.plr",
+      "1": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior_classic.plr",
+      "2": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior_medium.plr",
+      "3": "https://raw.githubusercontent.com/LeDinhTrong/db_players/master/moon_lord_warrior/moon_lord_warrior_hardcore.plr"
     },
     "author_name": "Tr3sh",
     "description": "It's up to Moon Lord Warrior. With it, you can defeat Moon Lord. He has 3 pieces of equipment: the first has bug armor, the second Beetle breastplate and in the third turtle armor. Cool accessories, etc.",
